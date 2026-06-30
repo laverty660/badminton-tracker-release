@@ -7,12 +7,12 @@
       "name": "Badminton Tracker",
       "bundleIdentifier": "com.badmintontracker.app",
       "developerName": "laverty660",
-      "version": "1.0.202606301715",
-      "versionDate": "2026-06-30T17:16:22Z",
-      "downloadURL": "https://github.com/laverty660/badminton-tracker-release/releases/download/v1.0.202606301715/App.ipa",
+      "version": "1.0.202606301743",
+      "versionDate": "2026-06-30T17:44:10Z",
+      "downloadURL": "https://github.com/laverty660/badminton-tracker-release/releases/download/v1.0.202606301743/App.ipa",
       "iconURL": "https://raw.githubusercontent.com/laverty660/badminton-tracker-release/main/icon.png",
       "localizedDescription": "Badminton match tracker with volume button scoring.",
-      "size": 3869238
+      "size": 3869164
     }
   ],
   "news": []
